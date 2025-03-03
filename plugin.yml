@@ -1,0 +1,11 @@
+name: DuelsX
+version: 1.0.0-BETA
+main: Mellooh\DuelsX\Main
+api: 5.0.0
+author: Mellooh_
+description: Test
+
+permissions:
+  duels.arena:
+    default: op
+    description: Permission to use the duel command.
