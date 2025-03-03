@@ -1,0 +1,2 @@
+# DuelsX
+The Duels Plugin
