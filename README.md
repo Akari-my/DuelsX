@@ -28,6 +28,7 @@ Duel Plugin is a Minecraft server plugin that allows players to challenge each o
 - [ ] Add a Scoreboard to Duels and even Duel Game Time
 - [ ] Add check that arena locations can only be set in set worlds
 - [ ] Make a config to set the kits for each Duel
+- [ ] Top Stats
 
 ## Contribute
 If you want to contribute to the development of the plugin, feel free to submit a pull request or report any issues in the repository's Issues section.
