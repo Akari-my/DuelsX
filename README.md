@@ -1,7 +1,7 @@
 ![minecraft_title](https://github.com/user-attachments/assets/3534513d-790d-4bd6-9251-73f83247cb22)
 
 ## Description
-Duel Plugin is a Minecraft server plugin that allows players to challenge each other in PvP duels in custom arenas. Administrators can create and manage arenas, while players can send and accept duel requests with simple commands.
+DuelX is a Minecraft server plugin that allows players to challenge each other in PvP duels in custom arenas. Administrators can create and manage arenas, while players can send and accept duel requests with simple commands.
 
 **Note:** This plugin is not 100% finished, and there may be bugs that will be fixed in future updates.
 
